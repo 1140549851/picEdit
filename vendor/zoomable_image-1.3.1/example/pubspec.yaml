@@ -1,0 +1,15 @@
+name: zoomable_image_example
+description: Demonstrates how to use the zoomable_image plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  zoomable_image:
+    path: ../
+
+flutter:
+  assets:
+   - images/squirrel.jpg
+   - images/india_chennai_flower_market.png
+   - images/img_camera_bg@2x.png
+
